@@ -26,7 +26,5 @@ window.onload = function() {
   paragraph.textContent = excuse;
   console.log(who + action + what + when);
   
-  return (
-    excuse
-   )
+  return (excuse)
 }
